@@ -1,0 +1,11 @@
+ipython==8.4.0
+jupyter-core==4.10.0
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.2
+numpy==1.23.0
+pandas==1.4.3
+scikit-learn==1.1.1
+scipy==1.8.1
+seaborn==0.11.2
+tensorflow==2.9.1
